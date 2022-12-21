@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "ffefrg",
+      "catigory": "wefwe",
+      "price": "efef",
+      "details": "wefwef",
+      "image": "fewfew",
+      "id": 1
+    },
+    {
+      "name": "said",
+      "catigory": "dwefwf",
+      "price": "23123",
+      "details": "ewfwv",
+      "image": "jekvmer",
+      "id": 2
+    },
+    {
+      "name": "vaha",
+      "catigory": "23123",
+      "price": "musa",
+      "details": "12312",
+      "image": "23123",
+      "id": 3
+    }
+  ]
+}
